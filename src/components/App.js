@@ -12,6 +12,7 @@ const App = () => {
     <div className='details'>
        Employee {pid} named {pname} works as {pdig}
     </div>
+  )
 }
 
 export default App;
